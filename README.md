@@ -20,7 +20,7 @@ A 4-week penetration testing project against an intentionally vulnerable, legall
  
 | #   | Name                                   | Role / Focus                   |  GitHub                                                     |
 | --- | -------------------------------------- | ------------------------------ | ----------------------------------------------------------  |
-| 1   |   Muhammad Saleh Fetoh Elsayad         | Team Lead / Reporting          | [elsayadm901-1211](https://github.com/elsayadm901-1211)     |
+| 1   |   Muhammad Saleh Fetouh Elsayad         | Team Lead / Reporting          | [elsayadm901-1211](https://github.com/elsayadm901-1211)     |
 | 2   |  Abdallah Mohammed Elsayed Elkorashy   | Input-Based Vulnerabilities    | [abdallahelkorashy](https://github.com/abdallahelkorashy)   |
 | 3   |   Omar Elbakry Yehia Elbakry Yehia     | Auth, Session & Access Control | [Omar-Elbakry-Yehia](https://github.com/Omar-Elbakry-Yehia) |
 | 4   |   Mazen Nabil Mohammed Alrasi          | API Testing & Retest           | [mazenalrasi1](https://github.com/mazenalrasi1)             |
