@@ -1,6 +1,6 @@
 # Web Application & API Penetration Test
  
-**Digital Egypt Pioneers (رواد مصر الرقمية) - Graduation Project**
+**Digital Egypt Pioneers Initiative (DEPI) - Graduation Project**
 
 Track: Vulnerability Analyst / Penetration Tester
 
