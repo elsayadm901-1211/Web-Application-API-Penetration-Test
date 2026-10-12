@@ -10,7 +10,7 @@ Project 2: Web Application & API Penetration Test
  
 A 4-week penetration testing project against an intentionally vulnerable, legally authorized target. The work covers web fundamentals and Burp Suite setup, input-based vulnerabilities, authentication/session/access control and API testing, and finally attack chaining, reporting and retesting.
  
-**Target application:** `<OWASP Juice Shop / DVWA / PortSwigger Web Security Academy - to be decided>`
+**Target application:** OWASP Juice Shop / DVWA / PortSwigger Web Security Academy - to be decided.
  
 > All testing is done only on intentionally vulnerable labs and applications we are authorized to test. No real-world systems are targeted.
  
